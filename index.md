@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaheb Ali</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend and Backend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=systembugbd&label=Profile%20views&color=0075ce&style=flat" alt="Shaheb Ali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=systembugbd" alt="Shaheb Ali" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=systembugbd&theme=onedark" alt="Shaheb Ali" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/md_shaheb_ali" target="blank"><img src="https://img.shields.io/twitter/follow/md_shaheb_ali?logo=twitter&style=for-the-badge" alt="md_shaheb_ali" /></a> </p>
 
